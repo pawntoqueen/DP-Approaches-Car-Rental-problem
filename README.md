@@ -3,9 +3,6 @@ CME 2204 Assignment-2
 Dynamic Programming and Greedy Approach
 17.05.2020 23:59 (Sharp deadline – No extension)
 
-Rules :
- The submissions will be checked for the code similarity. Plagiarism will be graded as zero.
- Other rules are explained at the end of this document.
 Scenario of the Assignment:
 Part-1
 Assume that you are the owner of a car company. Your company has enough employees to
